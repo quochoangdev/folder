@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\.NET\Slide4_QuanLyXe_SG\QL_NhanVien\bin\Debug\QL_NhanVien.exe.config
+C:\Users\Admin\Desktop\.NET\Slide4_QuanLyXe_SG\QL_NhanVien\bin\Debug\QL_NhanVien.exe
+C:\Users\Admin\Desktop\.NET\Slide4_QuanLyXe_SG\QL_NhanVien\bin\Debug\QL_NhanVien.pdb
+C:\Users\Admin\Desktop\.NET\Slide4_QuanLyXe_SG\QL_NhanVien\obj\Debug\QL_NhanVien.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\.NET\Slide4_QuanLyXe_SG\QL_NhanVien\obj\Debug\QL_NhanVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.NET\Slide4_QuanLyXe_SG\QL_NhanVien\obj\Debug\QL_NhanVien.exe
+C:\Users\Admin\Desktop\.NET\Slide4_QuanLyXe_SG\QL_NhanVien\obj\Debug\QL_NhanVien.pdb
+F:\class\.net\Slide4_QuanLyXe_SG_2\QL_NhanVien\bin\Debug\QL_NhanVien.exe.config
+F:\class\.net\Slide4_QuanLyXe_SG_2\QL_NhanVien\bin\Debug\QL_NhanVien.exe
+F:\class\.net\Slide4_QuanLyXe_SG_2\QL_NhanVien\bin\Debug\QL_NhanVien.pdb
+F:\class\.net\Slide4_QuanLyXe_SG_2\QL_NhanVien\obj\Debug\QL_NhanVien.csproj.AssemblyReference.cache
+F:\class\.net\Slide4_QuanLyXe_SG_2\QL_NhanVien\obj\Debug\QL_NhanVien.csproj.CoreCompileInputs.cache
+F:\class\.net\Slide4_QuanLyXe_SG_2\QL_NhanVien\obj\Debug\QL_NhanVien.exe
+F:\class\.net\Slide4_QuanLyXe_SG_2\QL_NhanVien\obj\Debug\QL_NhanVien.pdb

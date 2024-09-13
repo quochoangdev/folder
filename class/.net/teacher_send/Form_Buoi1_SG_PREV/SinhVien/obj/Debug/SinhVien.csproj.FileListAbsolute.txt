@@ -1,0 +1,10 @@
+C:\Users\Admin\Downloads\Form_Buoi1\SinhVien\obj\Debug\SinhVien.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Form_Buoi1\SinhVien\obj\Debug\SinhVien.Properties.Resources.resources
+C:\Users\Admin\Downloads\Form_Buoi1\SinhVien\obj\Debug\SinhVien.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Form_Buoi1\SinhVien\obj\Debug\SinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Form_Buoi1\SinhVien\bin\Debug\SinhVien.exe.config
+C:\Users\Admin\Downloads\Form_Buoi1\SinhVien\bin\Debug\SinhVien.exe
+C:\Users\Admin\Downloads\Form_Buoi1\SinhVien\bin\Debug\SinhVien.pdb
+C:\Users\Admin\Downloads\Form_Buoi1\SinhVien\obj\Debug\SinhVien.frm_SinhVien.resources
+C:\Users\Admin\Downloads\Form_Buoi1\SinhVien\obj\Debug\SinhVien.exe
+C:\Users\Admin\Downloads\Form_Buoi1\SinhVien\obj\Debug\SinhVien.pdb

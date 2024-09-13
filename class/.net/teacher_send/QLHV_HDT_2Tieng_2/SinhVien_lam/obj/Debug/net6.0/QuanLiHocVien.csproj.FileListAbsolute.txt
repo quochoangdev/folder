@@ -1,0 +1,15 @@
+E:\DriverE\Desktop\Ki1-nam3\DotNET_464O\BaiTap\OOP\QuanLiHocVien\QuanLiHocVien\bin\Debug\net6.0\QuanLiHocVien.exe
+E:\DriverE\Desktop\Ki1-nam3\DotNET_464O\BaiTap\OOP\QuanLiHocVien\QuanLiHocVien\bin\Debug\net6.0\QuanLiHocVien.deps.json
+E:\DriverE\Desktop\Ki1-nam3\DotNET_464O\BaiTap\OOP\QuanLiHocVien\QuanLiHocVien\bin\Debug\net6.0\QuanLiHocVien.runtimeconfig.json
+E:\DriverE\Desktop\Ki1-nam3\DotNET_464O\BaiTap\OOP\QuanLiHocVien\QuanLiHocVien\bin\Debug\net6.0\QuanLiHocVien.dll
+E:\DriverE\Desktop\Ki1-nam3\DotNET_464O\BaiTap\OOP\QuanLiHocVien\QuanLiHocVien\bin\Debug\net6.0\QuanLiHocVien.pdb
+E:\DriverE\Desktop\Ki1-nam3\DotNET_464O\BaiTap\OOP\QuanLiHocVien\QuanLiHocVien\obj\Debug\net6.0\QuanLiHocVien.csproj.AssemblyReference.cache
+E:\DriverE\Desktop\Ki1-nam3\DotNET_464O\BaiTap\OOP\QuanLiHocVien\QuanLiHocVien\obj\Debug\net6.0\QuanLiHocVien.GeneratedMSBuildEditorConfig.editorconfig
+E:\DriverE\Desktop\Ki1-nam3\DotNET_464O\BaiTap\OOP\QuanLiHocVien\QuanLiHocVien\obj\Debug\net6.0\QuanLiHocVien.AssemblyInfoInputs.cache
+E:\DriverE\Desktop\Ki1-nam3\DotNET_464O\BaiTap\OOP\QuanLiHocVien\QuanLiHocVien\obj\Debug\net6.0\QuanLiHocVien.AssemblyInfo.cs
+E:\DriverE\Desktop\Ki1-nam3\DotNET_464O\BaiTap\OOP\QuanLiHocVien\QuanLiHocVien\obj\Debug\net6.0\QuanLiHocVien.csproj.CoreCompileInputs.cache
+E:\DriverE\Desktop\Ki1-nam3\DotNET_464O\BaiTap\OOP\QuanLiHocVien\QuanLiHocVien\obj\Debug\net6.0\QuanLiHocVien.dll
+E:\DriverE\Desktop\Ki1-nam3\DotNET_464O\BaiTap\OOP\QuanLiHocVien\QuanLiHocVien\obj\Debug\net6.0\refint\QuanLiHocVien.dll
+E:\DriverE\Desktop\Ki1-nam3\DotNET_464O\BaiTap\OOP\QuanLiHocVien\QuanLiHocVien\obj\Debug\net6.0\QuanLiHocVien.pdb
+E:\DriverE\Desktop\Ki1-nam3\DotNET_464O\BaiTap\OOP\QuanLiHocVien\QuanLiHocVien\obj\Debug\net6.0\QuanLiHocVien.genruntimeconfig.cache
+E:\DriverE\Desktop\Ki1-nam3\DotNET_464O\BaiTap\OOP\QuanLiHocVien\QuanLiHocVien\obj\Debug\net6.0\ref\QuanLiHocVien.dll

@@ -1,0 +1,16 @@
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\bin\Debug\QLTV.mdf
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\bin\Debug\QLTV_log.ldf
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.GUI.frm_Login.resources
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.GUI.frm_Register.resources
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.GUI.frm_TrangChu.resources
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.GUI.frm_DocGia.resources
+F:\class\.net\exercise\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.GUI.frm_Sach.resources

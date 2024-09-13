@@ -1,0 +1,13 @@
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\VietChong_CheKhuat_PThuc\bin\Debug\VietChong_CheKhuat_PThuc.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\VietChong_CheKhuat_PThuc\bin\Debug\VietChong_CheKhuat_PThuc.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\VietChong_CheKhuat_PThuc\bin\Debug\VietChong_CheKhuat_PThuc.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\VietChong_CheKhuat_PThuc\obj\Debug\VietChong_CheKhuat_PThuc.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\VietChong_CheKhuat_PThuc\obj\Debug\VietChong_CheKhuat_PThuc.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\VietChong_CheKhuat_PThuc\obj\Debug\VietChong_CheKhuat_PThuc.csprojResolveAssemblyReference.cache
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\VietChong_CheKhuat_PThuc\bin\Debug\VietChong_CheKhuat_PThuc.exe.config
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\VietChong_CheKhuat_PThuc\bin\Debug\VietChong_CheKhuat_PThuc.exe
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\VietChong_CheKhuat_PThuc\bin\Debug\VietChong_CheKhuat_PThuc.pdb
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\VietChong_CheKhuat_PThuc\obj\Debug\VietChong_CheKhuat_PThuc.csproj.AssemblyReference.cache
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\VietChong_CheKhuat_PThuc\obj\Debug\VietChong_CheKhuat_PThuc.csproj.CoreCompileInputs.cache
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\VietChong_CheKhuat_PThuc\obj\Debug\VietChong_CheKhuat_PThuc.exe
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\VietChong_CheKhuat_PThuc\obj\Debug\VietChong_CheKhuat_PThuc.pdb

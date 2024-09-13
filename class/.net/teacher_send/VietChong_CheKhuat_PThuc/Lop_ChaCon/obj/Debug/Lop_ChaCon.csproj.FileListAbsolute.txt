@@ -1,0 +1,6 @@
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\Lop_ChaCon\bin\Debug\Lop_ChaCon.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\Lop_ChaCon\bin\Debug\Lop_ChaCon.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\Lop_ChaCon\bin\Debug\Lop_ChaCon.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\Lop_ChaCon\obj\Debug\Lop_ChaCon.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\Lop_ChaCon\obj\Debug\Lop_ChaCon.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\Lop_ChaCon\obj\Debug\Lop_ChaCon.pdb

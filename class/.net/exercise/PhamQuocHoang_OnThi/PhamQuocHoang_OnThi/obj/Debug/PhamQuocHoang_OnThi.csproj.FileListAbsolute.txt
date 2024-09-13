@@ -1,0 +1,13 @@
+F:\class\.net\exercise\PhamQuocHoang_OnThi\PhamQuocHoang_OnThi\bin\Debug\QuanLyQuanCafe.mdf
+F:\class\.net\exercise\PhamQuocHoang_OnThi\PhamQuocHoang_OnThi\bin\Debug\QuanLyQuanCafe_log.ldf
+F:\class\.net\exercise\PhamQuocHoang_OnThi\PhamQuocHoang_OnThi\bin\Debug\PhamQuocHoang_OnThi.exe.config
+F:\class\.net\exercise\PhamQuocHoang_OnThi\PhamQuocHoang_OnThi\bin\Debug\PhamQuocHoang_OnThi.exe
+F:\class\.net\exercise\PhamQuocHoang_OnThi\PhamQuocHoang_OnThi\bin\Debug\PhamQuocHoang_OnThi.pdb
+F:\class\.net\exercise\PhamQuocHoang_OnThi\PhamQuocHoang_OnThi\obj\Debug\PhamQuocHoang_OnThi.csproj.AssemblyReference.cache
+F:\class\.net\exercise\PhamQuocHoang_OnThi\PhamQuocHoang_OnThi\obj\Debug\PhamQuocHoang_OnThi.DanhMuc.resources
+F:\class\.net\exercise\PhamQuocHoang_OnThi\PhamQuocHoang_OnThi\obj\Debug\PhamQuocHoang_OnThi.Properties.Resources.resources
+F:\class\.net\exercise\PhamQuocHoang_OnThi\PhamQuocHoang_OnThi\obj\Debug\PhamQuocHoang_OnThi.csproj.GenerateResource.cache
+F:\class\.net\exercise\PhamQuocHoang_OnThi\PhamQuocHoang_OnThi\obj\Debug\PhamQuocHoang_OnThi.csproj.CoreCompileInputs.cache
+F:\class\.net\exercise\PhamQuocHoang_OnThi\PhamQuocHoang_OnThi\obj\Debug\PhamQuocHoang_OnThi.exe
+F:\class\.net\exercise\PhamQuocHoang_OnThi\PhamQuocHoang_OnThi\obj\Debug\PhamQuocHoang_OnThi.pdb
+F:\class\.net\exercise\PhamQuocHoang_OnThi\PhamQuocHoang_OnThi\obj\Debug\PhamQuocHoang_OnThi.frm_ThucDon.resources

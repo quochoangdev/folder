@@ -1,0 +1,7 @@
+F:\class\.net\Opp\QL_Xe\bin\Debug\QL_Xe.exe.config
+F:\class\.net\Opp\QL_Xe\bin\Debug\QL_Xe.exe
+F:\class\.net\Opp\QL_Xe\bin\Debug\QL_Xe.pdb
+F:\class\.net\Opp\QL_Xe\obj\Debug\QL_Xe.csproj.AssemblyReference.cache
+F:\class\.net\Opp\QL_Xe\obj\Debug\QL_Xe.csproj.CoreCompileInputs.cache
+F:\class\.net\Opp\QL_Xe\obj\Debug\QL_Xe.exe
+F:\class\.net\Opp\QL_Xe\obj\Debug\QL_Xe.pdb

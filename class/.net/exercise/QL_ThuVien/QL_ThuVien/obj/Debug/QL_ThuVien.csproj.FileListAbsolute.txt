@@ -1,0 +1,16 @@
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.AssemblyReference.cache
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frm_Login.resources
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frm_Register.resources
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.cache
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CoreCompileInputs.cache
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\bin\Debug\qlsv.mdf
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\bin\Debug\qlsv_log.ldf
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frm_TrangChu.resources
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frm_Sach.resources
+F:\class\.net\exercise\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frm_TheLoai.resources

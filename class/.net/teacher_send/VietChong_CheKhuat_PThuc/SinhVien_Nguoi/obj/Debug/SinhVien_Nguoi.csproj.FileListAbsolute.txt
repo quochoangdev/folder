@@ -1,0 +1,6 @@
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\SinhVien_Nguoi\bin\Debug\SinhVien_Nguoi.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\SinhVien_Nguoi\bin\Debug\SinhVien_Nguoi.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\SinhVien_Nguoi\bin\Debug\SinhVien_Nguoi.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\SinhVien_Nguoi\obj\Debug\SinhVien_Nguoi.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\SinhVien_Nguoi\obj\Debug\SinhVien_Nguoi.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\VietChong_CheKhuat_PThuc\SinhVien_Nguoi\obj\Debug\SinhVien_Nguoi.pdb

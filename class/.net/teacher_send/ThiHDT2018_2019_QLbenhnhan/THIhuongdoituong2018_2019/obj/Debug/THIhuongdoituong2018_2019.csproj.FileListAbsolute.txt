@@ -1,0 +1,59 @@
+E:\Giang day\Winform HOC\HuongDoiTuong\THIhuongdoituong2018_2019\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe.config
+E:\Giang day\Winform HOC\HuongDoiTuong\THIhuongdoituong2018_2019\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe
+E:\Giang day\Winform HOC\HuongDoiTuong\THIhuongdoituong2018_2019\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.pdb
+E:\Giang day\Winform HOC\HuongDoiTuong\THIhuongdoituong2018_2019\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.csprojResolveAssemblyReference.cache
+E:\Giang day\Winform HOC\HuongDoiTuong\THIhuongdoituong2018_2019\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.exe
+E:\Giang day\Winform HOC\HuongDoiTuong\THIhuongdoituong2018_2019\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.pdb
+E:\Giang day\GiangDay_Winform HOC\HuongDoiTuong\THIhuongdoituong2018_2019\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe.config
+E:\Giang day\GiangDay_Winform HOC\HuongDoiTuong\THIhuongdoituong2018_2019\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.exe
+E:\Giang day\GiangDay_Winform HOC\HuongDoiTuong\THIhuongdoituong2018_2019\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.pdb
+E:\Giang day\GiangDay_Winform HOC\HuongDoiTuong\THIhuongdoituong2018_2019\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe
+E:\Giang day\GiangDay_Winform HOC\HuongDoiTuong\THIhuongdoituong2018_2019\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.pdb
+E:\Giang day\GiangDay_Winform HOC\HuongDoiTuong\THIhuongdoituong2018_2019\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform HOC\HUONG DOI TUONG\THIhuongdoituong2018_2019\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe.config
+E:\Giang day\GiangDay_Winform HOC\HUONG DOI TUONG\THIhuongdoituong2018_2019\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.exe
+E:\Giang day\GiangDay_Winform HOC\HUONG DOI TUONG\THIhuongdoituong2018_2019\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.pdb
+E:\Giang day\GiangDay_Winform HOC\HUONG DOI TUONG\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe.config
+E:\Giang day\GiangDay_Winform HOC\HUONG DOI TUONG\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.exe
+E:\Giang day\GiangDay_Winform HOC\HUONG DOI TUONG\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.pdb
+E:\Giang day\GiangDay_Winform HOC\HUONG DOI TUONG\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe
+E:\Giang day\GiangDay_Winform HOC\HUONG DOI TUONG\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.pdb
+E:\Giang day\GiangDay_Winform HOC\HUONG DOI TUONG\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\ThiHDT2018_2019_QLbenhnhan\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\ThiHDT2018_2019_QLbenhnhan\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\ThiHDT2018_2019_QLbenhnhan\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\ThiHDT2018_2019_QLbenhnhan\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\ThiHDT2018_2019_QLbenhnhan\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\ThiHDT2018_2019_QLbenhnhan\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.csprojResolveAssemblyReference.cache
+C:\Users\KHUONG\Desktop\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe.config
+C:\Users\KHUONG\Desktop\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.exe
+C:\Users\KHUONG\Desktop\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.pdb
+C:\Users\KHUONG\Desktop\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe
+C:\Users\KHUONG\Desktop\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.pdb
+C:\Users\KHUONG\Desktop\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.csprojResolveAssemblyReference.cache
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe.config
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.pdb
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.csproj.AssemblyReference.cache
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.csproj.CoreCompileInputs.cache
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.exe
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Code cho cac Slide\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.pdb
+F:\class\.net\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe.config
+F:\class\.net\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.exe
+F:\class\.net\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\bin\Debug\THIhuongdoituong2018_2019.pdb
+F:\class\.net\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.csproj.AssemblyReference.cache
+F:\class\.net\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.csproj.CoreCompileInputs.cache
+F:\class\.net\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.exe
+F:\class\.net\ThiHDT2018_2019_QLbenhnhan\THIhuongdoituong2018_2019\obj\Debug\THIhuongdoituong2018_2019.pdb

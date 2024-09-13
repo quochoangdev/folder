@@ -1,0 +1,10 @@
+C:\Users\Admin\Downloads\Form_Buoi1\TinhToan\bin\Debug\TinhToan.exe.config
+C:\Users\Admin\Downloads\Form_Buoi1\TinhToan\bin\Debug\TinhToan.exe
+C:\Users\Admin\Downloads\Form_Buoi1\TinhToan\bin\Debug\TinhToan.pdb
+C:\Users\Admin\Downloads\Form_Buoi1\TinhToan\obj\Debug\TinhToan.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Form_Buoi1\TinhToan\obj\Debug\TinhToan.frm_phepTinh.resources
+C:\Users\Admin\Downloads\Form_Buoi1\TinhToan\obj\Debug\TinhToan.Properties.Resources.resources
+C:\Users\Admin\Downloads\Form_Buoi1\TinhToan\obj\Debug\TinhToan.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Form_Buoi1\TinhToan\obj\Debug\TinhToan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Form_Buoi1\TinhToan\obj\Debug\TinhToan.exe
+C:\Users\Admin\Downloads\Form_Buoi1\TinhToan\obj\Debug\TinhToan.pdb

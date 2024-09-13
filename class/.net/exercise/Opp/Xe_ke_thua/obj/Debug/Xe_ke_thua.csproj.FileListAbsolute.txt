@@ -1,0 +1,7 @@
+F:\class\.net\Opp\Xe_ke_thua\bin\Debug\Xe_ke_thua.exe.config
+F:\class\.net\Opp\Xe_ke_thua\bin\Debug\Xe_ke_thua.exe
+F:\class\.net\Opp\Xe_ke_thua\bin\Debug\Xe_ke_thua.pdb
+F:\class\.net\Opp\Xe_ke_thua\obj\Debug\Xe_ke_thua.csproj.AssemblyReference.cache
+F:\class\.net\Opp\Xe_ke_thua\obj\Debug\Xe_ke_thua.csproj.CoreCompileInputs.cache
+F:\class\.net\Opp\Xe_ke_thua\obj\Debug\Xe_ke_thua.exe
+F:\class\.net\Opp\Xe_ke_thua\obj\Debug\Xe_ke_thua.pdb

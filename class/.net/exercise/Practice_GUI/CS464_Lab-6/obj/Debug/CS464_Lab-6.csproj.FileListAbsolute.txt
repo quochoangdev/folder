@@ -1,0 +1,9 @@
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-6\obj\Debug\CS464_Lab_6.frm_ListBox.resources
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-6\obj\Debug\CS464_Lab_6.Properties.Resources.resources
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-6\obj\Debug\CS464_Lab-6.csproj.GenerateResource.cache
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-6\obj\Debug\CS464_Lab-6.csproj.CoreCompileInputs.cache
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-6\bin\Debug\CS464_Lab-6.exe.config
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-6\bin\Debug\CS464_Lab-6.exe
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-6\bin\Debug\CS464_Lab-6.pdb
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-6\obj\Debug\CS464_Lab-6.exe
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-6\obj\Debug\CS464_Lab-6.pdb

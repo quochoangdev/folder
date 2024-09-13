@@ -1,0 +1,13 @@
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-5\bin\Debug\CS464_Lab-5.exe.config
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-5\bin\Debug\CS464_Lab-5.exe
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-5\bin\Debug\CS464_Lab-5.pdb
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-5\obj\Debug\CS464_Lab-5.csproj.AssemblyReference.cache
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-5\obj\Debug\CS464_Lab_5.frm_QLSinhVien.resources
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-5\obj\Debug\CS464_Lab_5.Properties.Resources.resources
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-5\obj\Debug\CS464_Lab-5.csproj.GenerateResource.cache
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-5\obj\Debug\CS464_Lab-5.csproj.CoreCompileInputs.cache
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-5\obj\Debug\CS464_Lab-5.exe
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-5\obj\Debug\CS464_Lab-5.pdb
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-5\obj\Debug\CS464_Lab_5.frm_congTruNhanChia.resources
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-5\obj\Debug\CS464_Lab_5.frm_nhapMang.resources
+F:\class\.net\exercise\Practice_GUI\CS464_Lab-5\obj\Debug\CS464_Lab_5.frm_dangNhap.resources
